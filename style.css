@@ -21,6 +21,7 @@ header {
 	grid-template-rows: 50px;
 	grid-template-areas: 
 		"sideLeft logo logo logo none3 none3 none3 none3 nav nav sideRight";
+	z-index: 29;
 }
 
 #logo {
